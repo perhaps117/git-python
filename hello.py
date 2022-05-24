@@ -7,4 +7,8 @@ a = 'this is a new federation'
 
 b = 'we choose to go to the moon + fix_bugs'
 
+
 name = ['libai', 'titan']
+
+gender = ['male', 'female']
+
