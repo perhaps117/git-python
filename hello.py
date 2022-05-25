@@ -7,4 +7,4 @@ a = 'this is a new federation'
 
 b = 'we choose to go to the moon + fix_bugs'
 
-gender = ['male', 'female']
+gender = ['male', 'female', 'alien']

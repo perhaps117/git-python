@@ -5,4 +5,4 @@ import datetime
 import torch
 import psutil
 
-hobby = ['game', 'ball']
+hobby = ['game', 'ball', 'gun']
